@@ -76,12 +76,12 @@ Then speak commands like:
 
 🧠 Example Commands
 Command	Action
-Hi	Greets you
-Open Google	Opens Google homepage
-Search on Google AI tools	Searches topic on Google
-Open YouTube	Opens YouTube
-Search on YouTube songs	Searches videos
-Play song shape of you	Plays song on YouTube
+Hi	                        | Greets you
+Open                        | Google	Opens Google homepage
+Search on Google AI tools	  | Searches topic on Google
+Open YouTube	              | Opens YouTube
+Search on YouTube songs	    | Searches videos
+Play song shape of you      |	Plays song on YouTube
 Bye	Stops assistant
 ⚠️ Notes
 
