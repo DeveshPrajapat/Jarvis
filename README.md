@@ -103,11 +103,6 @@ GUI version using Tkinter
 
 AI chatbot integration
 
-👨‍💻 Author
-
-Your Name
-Python Developer | Voice Assistant Project
-
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
